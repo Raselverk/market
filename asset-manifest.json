@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/market/static/css/main.e85ce3cc.chunk.css",
+    "main.js": "/market/static/js/main.7f204fa9.chunk.js",
+    "main.js.map": "/market/static/js/main.7f204fa9.chunk.js.map",
+    "runtime~main.js": "/market/static/js/runtime~main.9b3e2a4e.js",
+    "runtime~main.js.map": "/market/static/js/runtime~main.9b3e2a4e.js.map",
+    "static/js/2.fb7e1e50.chunk.js": "/market/static/js/2.fb7e1e50.chunk.js",
+    "static/js/2.fb7e1e50.chunk.js.map": "/market/static/js/2.fb7e1e50.chunk.js.map",
+    "index.html": "/market/index.html",
+    "precache-manifest.c10b3a60b01feb42b8599b679fecc3ba.js": "/market/precache-manifest.c10b3a60b01feb42b8599b679fecc3ba.js",
+    "service-worker.js": "/market/service-worker.js",
+    "static/css/main.e85ce3cc.chunk.css.map": "/market/static/css/main.e85ce3cc.chunk.css.map",
+    "static/media/audio.jpg": "/market/static/media/audio.8e312aae.jpg",
+    "static/media/laptop.jpg": "/market/static/media/laptop.f3b76159.jpg",
+    "static/media/macbook.jpg": "/market/static/media/macbook.05267ec0.jpg",
+    "static/media/nikon.jpg": "/market/static/media/nikon.7ce66571.jpg",
+    "static/media/padAcer.jpg": "/market/static/media/padAcer.62215f0d.jpg",
+    "static/media/phone.jpg": "/market/static/media/phone.787fa409.jpg",
+    "static/media/tvLg.jpg": "/market/static/media/tvLg.b695235a.jpg",
+    "static/media/tvSamsung.jpg": "/market/static/media/tvSamsung.d046d8e2.jpg"
+  }
+}
